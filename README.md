@@ -27,4 +27,7 @@ Success of Others
 what our peers can teach us we find more answers to question we have unanswered. Asking for help isn't weakness
 but it is the practice of solving our faults and striving on.
 
-###
+| Teammates | Description |
+| --- | ----------- |
+| Header | Title |
+| Paragraph | Text |
