@@ -9,7 +9,8 @@ I am Paulo I really like coding and decieving scammers. So I hope to make a mock
 My github is at:
 
 ### Growth Mindset
-Obstacles
+
+#### Obstacles
 : In participation and focus we find instant gratification by completing a task by diverting attention to small
 task that will not help us through our task at hand such as watching a video, snipping coffee or even talking
 a colleague. We persist through these task as growth minded thinkers and persist on the task at hand to gain
