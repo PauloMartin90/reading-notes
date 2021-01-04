@@ -1,27 +1,20 @@
 # Author
-Paulo Martin
+~~Andy Narwhal~~ Paulo Martin
 
 ## Description
 This is a collection of reading from Codefellows.
 
 ### About Me
 I am Paulo I really like coding and decieving scammers. So I hope to make a mock banking website to so when they try to scam me they can only html inspect a fake bank website account.
-My github is at:
+My github is at: [PAULO GIT WITH IT!!!] (https://github.com/PauloMartin90)
 
 ### Growth Mindset
 
-#### Obstacles
-
+Obstacles
 : In participation and focus we find instant gratification by completing a task by diverting attention to small
 task that will not help us through our task at hand such as watching a video, snipping coffee or even talking
 a colleague. We persist through these task as growth minded thinkers and persist on the task at hand to gain
 better knowledge on our overall goal.
-
-
-
-
-
-
 
 Critism
 : Self reflection is the open and honest conversation we have with ourselves. By allowing where we reached our
