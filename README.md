@@ -10,7 +10,7 @@ My github is at:
 
 ### Growth Mindset
 Obstacles
-:In participation and focus we find instant gratification by completing a task by diverting attention to small
+: In participation and focus we find instant gratification by completing a task by diverting attention to small
 task that will not help us through our task at hand such as watching a video, snipping coffee or even talking
 a colleague. We persist through these task as growth minded thinkers and persist on the task at hand to gain
 better knowledge on our overall goal.
