@@ -15,13 +15,13 @@ task that will not help us through our task at hand such as watching a video, sn
 a colleague. We persist through these task as growth minded thinkers and persist on the task at hand to gain
 better knowledge on our overall goal.
 
-Critism:
-Selfe reflection is the open and honest conversation we have with ourselves. By allowing where we reached our
+Critism
+: Self reflection is the open and honest conversation we have with ourselves. By allowing where we reached our
 goals and where we faulter we can analyze our own strength and weaknesses tending to what we need to focus on
 to better our overall skill set.
 
-Success of Others:
-We as humans find that there is a tendancy to jealously for other accomplishments. By changing that mindset to
+Success of Others
+: We as humans find that there is a tendancy to jealously for other accomplishments. By changing that mindset to
 what our peers can teach us we find more answers to question we have unanswered. Asking for help isn't weakness
 but it is the practice of solving our faults and striving on.
 
