@@ -15,6 +15,7 @@ task that will not help us through our task at hand such as watching a video, sn
 a colleague. We persist through these task as growth minded thinkers and persist on the task at hand to gain
 better knowledge on our overall goal.
 
+
 Critism
 : Self reflection is the open and honest conversation we have with ourselves. By allowing where we reached our
 goals and where we faulter we can analyze our own strength and weaknesses tending to what we need to focus on
