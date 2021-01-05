@@ -24,6 +24,7 @@ These are different types of editors an IDE (Integrated Development Environment)
 
 ### Commands
 | Definition |  Syntax  |
+| ---------------| ------------------ |
 |pwd | print working directory which will show you the current folder you are in |
 ls = list files in the current directory
 ls -a = list all files in a directory including hidden files
