@@ -21,7 +21,7 @@ Well there is an assortmant of ways to do so we could use it as a formatting too
 We can also do some fun things on markdown we could find some inspirational quotes such as...
 
 
-![GitHub Logo](reading-notes/Check.jpg)
+![GitHub Logo](https://github.com/PauloMartin90/reading-notes/blob/main/Check.jpg)
 
 
 
