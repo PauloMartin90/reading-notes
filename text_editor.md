@@ -16,3 +16,4 @@ With different types of text editor what are the key features that make them uni
 These are different types of editors an IDE (Integrated Development Environment) is really a suite of different software all coming together. An IDE is a text editor, a file manager, a compiler, and a debugger all in one software package. With cellular phones being mobile computers we can use the different resources on a phone to create new types of applications. The IDE allows us not to rebuild the wheel but use exisiting code to use the resources of the phone with out having to create new code.
 
 
+[🔙 Go Back](README.md)
