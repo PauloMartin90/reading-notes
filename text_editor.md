@@ -31,8 +31,8 @@ There are two types of paths absolute and relative. Paths start at the root dire
 With any computer operating system under the hood and in the kernal, everything is actually a file. A text file is a file, a directory is a file, your keyboard is a file (one that the system reads from only), your monitor is a file (one that the system writes to only). To begin with, this won't affect what we do too much but keep it in mind as it helps with understanding the behaviour of Linux as we manage files and directories.
 
 ### Commands
-     Definition       |          Syntax       
- ---------------- |  --------------------------------------------------------------------- 
+     Definition       |          Syntax       |
+ ---------------- |  --------------------------------------------------------------------- |
  pwd | print working directory which will show you the current folder you are in 
  ls | list files in the current directory 
  ls -a | list all files in a directory including hidden files 
