@@ -25,4 +25,5 @@ Success of Others
 # Table of Contents
 * [Markdown Notes](markdown.md)
 * [Text Editor Notes](text_editor.md)
-* [Git Hub Notes](using_git.md)
+* [Git Hub Notes](using_git.md
+)
