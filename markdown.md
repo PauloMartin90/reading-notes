@@ -51,6 +51,8 @@ Yes you can quote crazy, weird and famous people if you don't try just read thes
 ## Emoji
 Always my favorite EMOJIS
 
+This cheat sheet is automatically generated from [GitHub Emoji API](https://api.github.com/emojis) and [Unicode Full Emoji List](https://unicode.org/emoji/charts/full-emoji-list.html).
+
 | | ico | shortcode | ico | shortcode | |
 | - | :-: | - | :-: | - | - |
 | [top](#smileys--emotion) | :grinning: | `:grinning:` | :smiley: | `:smiley:` | [top](#table-of-contents) |
