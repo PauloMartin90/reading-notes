@@ -33,18 +33,14 @@ With any computer operating system under the hood and in the kernal, everything 
 ### Commands
 | Syntax      | Description |
 | :---        |    :----:   |
-| pwd         |  print working directory which will show you the current folder you are in
+| pwd         |  print working directory which will show you the current folder you are in |
+| ls | list files in the current directory |
+| ls -a | list all files in a directory including hidden files|
+| ~ | shortcut for home director |
+| .. | reference to parent directory |
+| cd | change directory and is usually followed by a path you want to target |
+| file | shows the file type and data associated with the file specified |
 
-
-| Paragraph   | Text        | And more      |
- ------------ | ------ 
- pwd | print working directory which will show you the current folder you are in
-ls | list files in the current directory
-ls -a | list all files in a directory including hidden files
-~ | shortcut for home director
-.. | reference to parent directory
-cd | change directory and is usually followed by a path you want to target
-file | shows the file type and data associated with the file specified
 
 
 
