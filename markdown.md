@@ -20,8 +20,9 @@ Well there is an assortmant of ways to do so we could use it as a formatting too
 
 | Definitions |         Syntax          |
 | ----------- | ----------------------- |
-| Header | Title |
-| Paragraph | Text |
+| Bold | ** ** |
+| Strikethrough | ~~ ~~ |
+| Italics | * * |
 
 
 
