@@ -20,8 +20,9 @@ A terminal or command line is a text based interface to the system. Programmers 
 
 ## Navigation
 The navigation of your terminal is important by using commands such as **PWD** (print working directory) the programmer can find their enviroment they are working in. Searching the files with in the directory is by using the **ls** list command that shows all the files in the directory. 
-Paths:
-> There are absolute and relative paths. Paths start with a root directory, or the primary folder, and each sub folder follows a forward slash i.e. (/) . Absolute paths show the entire pathway whereas relatives paths show files in relation to where you currently are in you system. Some other ways to build paths include:
+
+#### Paths:
+There are two types of paths absolute and relative. Paths start at the root directory, or the main folder, and each sub folder follows a forward slash (/) . Absolute paths show the entire pathway and relative path show files in relation to where you currently are in you system. Some other ways to build paths include:
 1. tild (~): shortcuts to your home directory
 1. dot (.): shows you your current directory
 1. dotdot (..): references the parent directory
