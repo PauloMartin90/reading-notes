@@ -6,24 +6,28 @@ Below is a collection of resources of varying types and lengths which describe t
 Go through these resources, and create a page in your reading-notes repo that summarizes the topics you learned as though you were presenting the material to a non-technical friend interested in learning about it.
 
 Note entry ideas:
-
-Blog Article (2-3 paragraphs with code sample)
 Dictionary / Flash Cards
 Notes in outline form
 Fill-in-the-blank worksheet of key concepts
 
+
+Blog Article (2-3 paragraphs with code sample)
 # What is Markdown?
 To answer that we would have to know what a website is and is not. A website isn't some machine to do the bitcoin mining or AI machine bent on world domination. It's the gate that reaches you to the house. It helps makes the walls that houses the machines at work to be user friendily for anyone to use 😅 we use Markdown to decorate it and make coding fun!!!
 
 # How do we use Markdown
 Well there is an assortmant of ways to do so we could use it as a formatting tool. For example I could make it as if **this** word was bold..... 😬 I mean for example I mean if ~~this~~ WORD was **Bold**....... 🤦‍ no no no I mean FOR EXAMPLE IF ~~THIS~~ **WORD** WAS *BOLD*!!!......... So on how we also use markdown is by painting words in  *italic*, **bold** and ~~editing~~ as well. 
 
-We can also do some fun things on markdown we could find some inspirational quotes such as...
+| Definitions |         Syntax          |
+| ----------- | ----------------------- |
+| Header | Title |
+| Paragraph | Text |
 
 
-![GitHub Logo](https://github.com/PauloMartin90/reading-notes/blob/main/Check.jpg)
 
-
+Dictionary / Flash Cards
+Notes in outline form
+Fill-in-the-blank worksheet of key concepts
 
 
 
