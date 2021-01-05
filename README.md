@@ -28,5 +28,5 @@ what our peers can teach us we find more answers to question we have unanswered.
 but it is the practice of solving our faults and striving on.
 
 ###### Table of Contents
-[Markdown Notes](markdown.md)
-[Text Editor Notes](text_editor.md)
+* [Markdown Notes](markdown.md)
+* [Text Editor Notes](text_editor.md)
