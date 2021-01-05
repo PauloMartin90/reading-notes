@@ -91,4 +91,4 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 
 
 
-<== [GO BACK](README.md)
+[🔙 GO BACK](README.md)
