@@ -29,3 +29,4 @@ but it is the practice of solving our faults and striving on.
 
 ###### Table of Contents
 [Markdown Notes](markdown.md)
+[Text Editor Notes](text_editor.md)
