@@ -32,7 +32,7 @@ With any computer operating system under the hood and in the kernal, everything 
 
 ### Commands
 |     Definition       |          Syntax       |
-| ------- |  ---------------------------------------------------------------- |
+| ------- |  --------------------------------------------------------------------- |
 | pwd | print working directory which will show you the current folder you are in |
 | ls | list files in the current directory |
 | ls -a | list all files in a directory including hidden files |
