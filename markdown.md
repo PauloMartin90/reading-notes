@@ -18,7 +18,9 @@ To andswer that we would have to know what a website is and is not. A website is
 # How do we use Markdown
 Well there is an assortmant of ways to do so we could use it as a formatting tool. For example I could make it as if **this** word was bold..... 😬 I mean for example I mean if ~~this~~ WORD was **Bold**....... 🤦‍ no no no I mean FOR EXAMPLE IF ~~THIS~~ **WORD** WAS *BOLD*!!!......... So on how we also use markdown is by painting words in  *italic*, **bold** and ~~editing~~ as well. 
 
-We can also do some fun things on markdown we can go back to pages <README.md>
+We can also do some fun things on markdown we could find some inspirational quotes such as...
+
+
 
 
 
