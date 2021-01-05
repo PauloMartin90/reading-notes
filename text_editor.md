@@ -16,8 +16,15 @@ With different types of text editor what are the key features that make them uni
 These are different types of editors an IDE (Integrated Development Environment) is really a suite of different software all coming together. An IDE is a text editor, a file manager, a compiler, and a debugger all in one software package. With cellular phones being mobile computers we can use the different resources on a phone to create new types of applications. The IDE allows us not to rebuild the wheel but use exisiting code to use the resources of the phone with out having to create new code.
 
 ## Terminal
+A terminal or command line is a text based interface to the system. Programmers will input commands and an output is given by the computer. There are different types of terminals for each operating system. There is a shell that is part of the operating system that defines how the terminal will react to commands search for running commands for the programmer. There are a variety of shells available but the most common is called "Bash". To see what shell you're using you may use a command called "echo" to display a system variable stating your current shell.
 
 ## Navigation
+The navigation of your terminal is important by using commands such as **PWD** (print working directory) the programmer can find their enviroment they are working in. Searching the files with in the directory is by using the **ls** list command that shows all the files in the directory. 
+Paths:
+> There are absolute and relative paths. Paths start with a root directory, or the primary folder, and each sub folder follows a forward slash i.e. (/) . Absolute paths show the entire pathway whereas relatives paths show files in relation to where you currently are in you system. Some other ways to build paths include:
+1. tild (~): shortcuts to your home directory
+1. dot (.): shows you your current directory
+1. dotdot (..): references the parent directory
 
 ## Files
 
