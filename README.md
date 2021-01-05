@@ -31,3 +31,6 @@ but it is the practice of solving our faults and striving on.
 | --- | ----------- |
 | Header | Title |
 | Paragraph | Text |
+
+# Table of Contents
+[Markdown Notes](markdown.md)
