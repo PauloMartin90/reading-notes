@@ -1,17 +1,7 @@
 # Markdown.... Your calendars 📆
-  2 paragraphs
-  
-Below is a collection of resources of varying types and lengths which describe the topics from lecture.
-
-Go through these resources, and create a page in your reading-notes repo that summarizes the topics you learned as though you were presenting the material to a non-technical friend interested in learning about it.
-
-Note entry ideas:
-Dictionary / Flash Cards
-Notes in outline form
-Fill-in-the-blank worksheet of key concepts
 
 
-Blog Article (2-3 paragraphs with code sample)
+
 # What is Markdown?
 To answer that we would have to know what a website is and is not. A website isn't some machine to do the bitcoin mining or AI machine bent on world domination. It's the gate that reaches you to the house. It helps makes the walls that houses the machines at work to be user friendily for anyone to use 😅 we use Markdown to decorate it and make coding fun!!!
 
