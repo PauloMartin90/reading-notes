@@ -1,4 +1,4 @@
-# Markdown.... Your calendars :spiral_calendar:	
+# Markdown.... Your calendars :spiral_calendar:	😄 
   2 paragraphs
   
 Below is a collection of resources of varying types and lengths which describe the topics from lecture.
