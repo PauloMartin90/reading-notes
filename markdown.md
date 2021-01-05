@@ -48,6 +48,16 @@ We can create ordered list and ordered list such as
 | Ordered | 1., 1., 1., 1., 1. |
 
 
+## Quotes
+Yes you can quote crazy, weird and famous people if you don't try just read these famous words
+
+
+### MR.T
+> I Pity The Fool who doesn't like learning 
+
+| Definitions |         Syntax          |
+| ----------- | ----------------------- |
+| Quotes/Block | > |
 
 Dictionary / Flash Cards
 Notes in outline form
