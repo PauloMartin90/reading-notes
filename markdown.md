@@ -49,8 +49,7 @@ We can create ordered list and ordered list such as
 
 
 ## Quotes
-Yes you can quote crazy, weird and famous people if you don't try just read these famous words
-
+Yes you can quote crazy, weird and famous people if you don't try just read these famous words...
 
 ### MR.T
 > I Pity The Fool who doesn't like learning 
@@ -58,10 +57,6 @@ Yes you can quote crazy, weird and famous people if you don't try just read thes
 | Definitions |         Syntax          |
 | ----------- | ----------------------- |
 | Quotes/Block | > |
-
-Dictionary / Flash Cards
-Notes in outline form
-Fill-in-the-blank worksheet of key concepts
 
 
 
