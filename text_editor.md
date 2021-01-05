@@ -15,5 +15,23 @@ With different types of text editor what are the key features that make them uni
 ## What is a IDE Text Editor? 
 These are different types of editors an IDE (Integrated Development Environment) is really a suite of different software all coming together. An IDE is a text editor, a file manager, a compiler, and a debugger all in one software package. With cellular phones being mobile computers we can use the different resources on a phone to create new types of applications. The IDE allows us not to rebuild the wheel but use exisiting code to use the resources of the phone with out having to create new code.
 
+## Terminal
+
+## Navigation
+
+## Files
+
+
+### Commands
+| Definition |  Syntax  |
+|pwd | print working directory which will show you the current folder you are in |
+ls = list files in the current directory
+ls -a = list all files in a directory including hidden files
+~ = shortcut for home directory
+.. = reference to parent directory
+cd = change directory and is usually followed by a path you want to target
+file = shows the file type and data associated with the file specified
+
+
 
 [🔙 Go Back](README.md)
