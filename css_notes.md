@@ -13,8 +13,11 @@
 
 ## Class Selector			
 > Matches and element whose class atributes has a value tht matches the one specified after the pound (or full stop) symbol 
- .note {} | Targets any element whose class attribute has a value of note
- p.note {} | Targets only <p> elements whose class attribute has a value of note
+ 
+ | Syntax           | Usage                              | 
+ | ---------------- | ---------------------------------- |
+ | .note {} |  Targets any element whose class attribute has a value of note |
+ | p.note {} | Targets only <p> elements whose class attribute has a value of note |
 
 ## ID Selector
 > Matches and element whose id attribute has a value that matches the one specified after the pound or hash symbol
