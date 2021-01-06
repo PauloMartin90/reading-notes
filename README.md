@@ -26,3 +26,4 @@ Success of Others
 * [Markdown Notes](markdown.md)
 * [Text Editor Notes](text_editor.md)
 * [Git Hub Notes](using_git.md)
+* [HTML & CSS Notes](html_css_notes.md)
