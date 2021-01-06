@@ -52,7 +52,7 @@
 
 | Syntax | Usage |
 | :--- | :---: |
-| h1+p {} | Targets the <p> element after any <h1> element (but not other <p> element)
+| h_1+p {} | Targets the <p> element after any <h_1> element (but not other <p> element)
  
  
  ## General Sibiling Selector
@@ -60,7 +60,7 @@
  
 | Syntax | Usage |
 | :--- | :---: |
- | h1~p {} | If you had two <p> elements that are siblings of an <h1> element, this rule would apply to both |
+ | h_1~p {} | If you had two <p> elements that are siblings of an <h1> element, this rule would apply to both |
  
  
  
