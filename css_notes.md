@@ -32,6 +32,58 @@
 
 ## Child Selector
 > Matches an element that is a direct child of another
-li>a {}		| Targets andy <a> elements that sit inside a <p> elemet, even if there are other elements nested betweem them
+
+| Syntax | Usage |
+| :--- | :---: |
+| li>a {}		| Targets andy <a> elements that sit inside a <p> elemet, even if there are other elements nested betweem them |
 
 
+## Descendant Selector
+> Matches and element that is a a descenedant of another specified element (Not Just a direct child of that element)
+
+
+| Syntax | Usage |
+| :--- | :---: |
+| p a {} | Targets any <a> element that sits inside a <p> element, even if there are other elements nested between them
+ 
+ 
+## Adjancent Sibiling Selector
+> Matches an element that is the next sibling of another
+
+| Syntax | Usage |
+| :--- | :---: |
+| h1+p {} | Targets the <p> element after any <h1> element (but not other <p> element)
+ 
+ 
+ ## General Sibiling Selector
+ > Matches an element that is a sibling of another, although it does not have to be the directly preceding element 
+ 
+| Syntax | Usage |
+| :--- | :---: |
+ | h1~p {} | If you had two <p> elements that are siblings of an <h1> element, this rule would apply to both |
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
