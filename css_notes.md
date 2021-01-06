@@ -63,7 +63,7 @@
  | h_1~p {} | If you had two <p> elements that are siblings of an <h_1> element, this rule would apply to both |
  
  
- 
+ using # is for Id 
  
  
  
