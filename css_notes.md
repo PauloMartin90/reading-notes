@@ -2,6 +2,7 @@
 
 ## Unviersal Selector	
 > Applies to all element in the document	
+ :--- | :---:
  * {} | Targets all elements on the page
 
 ## Type Selector
