@@ -13,7 +13,7 @@
 
  | Syntax           | Usage                              | 
  | ---------------- | ---------------------------------- |
-| h1, h2, h3 {} | Targets thes <h1>, <h2> and <h3> elements |
+| h1, h2, h3 {} | Targets thes <h_1>, <h_2> and <h_3> elements |
 
 ## Class Selector			
 > Matches and element whose class atributes has a value tht matches the one specified after the pound (or full stop) symbol 
@@ -25,7 +25,10 @@
 
 ## ID Selector
 > Matches and element whose id attribute has a value that matches the one specified after the pound or hash symbol
-#introductions {} | Targets the element whose id attributes has a value of introduction
+
+| Syntax | Usage |
+| :--- | :---: |
+| #introductions {} | Targets the element whose id attributes has a value of introduction |
 
 ## Child Selector
 > Matches an element that is a direct child of another
