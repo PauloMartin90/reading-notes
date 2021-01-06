@@ -2,9 +2,10 @@
 
 ## Unviersal Selector	
 > Applies to all element in the document	
- | Syntax | Usage | 
+
+ | Syntax           | Usage                              | 
  | ---------------- | ---------------------------------- |
- | * {} | Targets all elements on the page |
+ | * {}             | Targets all elements on the page   |
 
 ## Type Selector
 > Matches element names											
