@@ -1,4 +1,4 @@
-# CSS:
+# CSS Notes
 
 ## Unviersal Selector	
 > Applies to all element in the document	
@@ -60,7 +60,7 @@
  
 | Syntax | Usage |
 | :--- | :---: |
- | h_1~p {} | If you had two <p> elements that are siblings of an <h1> element, this rule would apply to both |
+ | h_1~p {} | If you had two <p> elements that are siblings of an <h_1> element, this rule would apply to both |
  
  
  
