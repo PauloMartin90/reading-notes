@@ -181,7 +181,7 @@ Almost every type of Version Control System incorporates branching. By creating 
 
 A collaborator can create a branch, work on it and save commit snapshots within it, switch between various branches, and merge changes. A Git branch is basically a movable pointer that always points to the most recent commit, or snapshot. Git uses the default local branch name “master,” which can be changed. Just because the default name is “master” does not imply that it is higher in importance or has more functionality than other branches. The head is a special pointer which indicates which branch you are currently working within.
 
-![Branching](https://blog.udemy.com/wp-content/uploads/2015/08/image016.png)
+![](https://blog.udemy.com/wp-content/uploads/2015/08/image016.png)
 
 
 [🔙 GO BACK](README.md)
