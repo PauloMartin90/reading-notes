@@ -9,7 +9,8 @@
 
 ## Type Selector
 > Matches element names											
- h1, h2, h3 {} | Targets thes <h1>, <h2> and <h3> elements
+
+h1, h2, h3 {} | Targets thes <h1>, <h2> and <h3> elements
 
 ## Class Selector			
 > Matches and element whose class atributes has a value tht matches the one specified after the pound (or full stop) symbol 
