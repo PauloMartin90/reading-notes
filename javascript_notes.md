@@ -37,12 +37,14 @@ Modulus | Divides two values and returns the remainder | 10 % 3 | 1 |
 
 ## Loops
 | Syntax | Definition |
-| :---: | :---: | :---: |
+| :---: | :---: |
 | FOR | If you need to run code a specific number of times use, a **for** loop. (it is the most common loop.) In a **for** loop, condisiton is usually a counter which is used to tell how many times the loop should run. |
 | WHILE | If you do not know how many times the code should run, you can use a **while** loop. Here the condition can be something other than a counter, and the code will continue to loop for as long as the condition is true. |
 | DO WHILE | The **do...while** loop is very similar to the **while** loop, but has one key difference: it will always run the statements inside the curly braces at least once, even if the condition evaluate to false. |
 | Initialization | Create a variable and set it to **0**. This variable is commonly called i, and it acts as the counter. |
 | Condition | The loop should continue to run until the counter reaches a specified number. |
 | Update | Everytime the loop has run the statements in the curly braces, it adds one to the counter. |
+
+Loops are useful to iterate code
 
 [🔙 Go Back](README.md)
