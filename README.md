@@ -28,3 +28,4 @@ Success of Others
 * [Git Hub Notes](using_git.md)
 * [HTML](html_css_notes.md)
 * [CSS Notes](css_notes.md)
+* [Javascript Notes](javascript_notes.md)
