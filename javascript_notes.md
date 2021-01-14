@@ -45,6 +45,18 @@ Modulus | Divides two values and returns the remainder | 10 % 3 | 1 |
 | Condition | The loop should continue to run until the counter reaches a specified number. |
 | Update | Everytime the loop has run the statements in the curly braces, it adds one to the counter. |
 
+Popular Javascript Events Are:
+- click
+- mouseenter
+- mouseleave
+- mousedown
+- mouseup
+- mousemove
+- keydown
+- keyup
+- blur
+- focus
+
 Loops are useful to iterate code
 
 [🔙 Go Back](README.md)
