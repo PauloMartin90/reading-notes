@@ -6,8 +6,8 @@
 
 
 ### About Me
-Hiya, Paulo I really like coding and decieving scammers. So I hope to make a mock banking website to so when they try to scam me they can only html inspect a fake bank website account.
-My github is at: [PAULO GIT WIT IT!!!](https://github.com/PauloMartin90)
+Hiya! My name is Paulo Martin, I’m an environmentalist from Humboldt county. During the pandemic I was going to Humboldt State University working towards my environmental resource engineering degree. Since everything has gone online, I wanted to put down that path for now and work on a project that impacts the environment through coding. While going to school I worked for an outdoor recreation program on campus helping Military Veterans transition to school through the outdoors. Before going to California to go to University I enlisted in the US Army as a canon crew member I was stationed in South Korea at a Field Artilllery in Camp Casey. One of my major roles I served for the unit was the Company Armorer where I maintained, serviced, secured and recorded company weaponry/equipment for my company of 250 soldiers. After serving I spent time working in the Philippines trading bitcoins at local exchanges and working on a networking algorithms to create a mesh network.
+My github is at: [GIT](https://github.com/PauloMartin90)
 
 ### Growth Mindset
 
