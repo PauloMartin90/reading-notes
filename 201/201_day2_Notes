@@ -1,0 +1,19 @@
+- JavaScript uses an object oriented language this is great because you can fill a object with pertainent information
+- The downside of this is when it is a global variable it takes up memory when loading the page
+- The other side of this coin is we can use do loops to fill these objects and take that information and use a call function for the specific information needed.
+- When writing and array could I use that array to fill a function?
+- When writing a function can I fill it with variables or character data only?
+- Couldn't I just build a website using nothing but call functions do loops to make the html and css on the page?\\
+
+
+DO Loops what can I use them for?
+
+**for loop**
+counting
+calculations
+limit search results
+
+
+**while loop**
+password enteromg
+kick out method
